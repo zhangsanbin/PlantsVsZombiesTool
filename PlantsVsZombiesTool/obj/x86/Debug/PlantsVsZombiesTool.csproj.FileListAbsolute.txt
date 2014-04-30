@@ -1,0 +1,7 @@
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\bin\Debug\PlantsVsZombiesTool.exe
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\bin\Debug\PlantsVsZombiesTool.pdb
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\obj\x86\Debug\PlantsVsZombiesTool.Form1.resources
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\obj\x86\Debug\PlantsVsZombiesTool.Properties.Resources.resources
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\obj\x86\Debug\PlantsVsZombiesTool.exe
+E:\工程\PlantsVsZombiesTool\PlantsVsZombiesTool\obj\x86\Debug\PlantsVsZombiesTool.pdb
